@@ -1,0 +1,6 @@
+// CompileDaemon --command="./go-gin-crud"
+// sudo docker-compose up --build
+// sudo docker run --name my-postgres-container -e POSTGRES_PASSWORD=mysecretpassword -p 5432:5432 -d postgres
+// psql -U postgres -d go_gin_crud
+// /home/$HOME/go/bin/gonic
+// gin run main.go
